@@ -1,0 +1,14 @@
+node_modules/
+.env
+*.sqlite
+*.sqlite-journal
+*.sqlite-shm
+*.sqlite-wal
+sessions.sqlite
+database.sqlite
+coverage/
+.DS_Store
+Thumbs.db
+logs/
+*.log
+dist/
