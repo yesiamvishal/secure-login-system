@@ -168,6 +168,4 @@ server {
 
 ---
 
-## 📜 License
-
-MIT — use freely, contribute back ❤️
+ 
